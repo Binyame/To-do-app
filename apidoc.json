@@ -1,0 +1,10 @@
+{
+    "name": "Evangadi TODO API Doumentation",
+    "version": "1.0.0",
+    "description": "API documentation for front-end access",
+    "url": "http://localhost/api/v1",
+    "template": {
+        "withCompare": true,
+        "withGenerator": true
+    }
+}
